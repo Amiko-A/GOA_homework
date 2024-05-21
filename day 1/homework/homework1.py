@@ -1,0 +1,7 @@
+print("day 2 homework")
+print("giorgi")
+print("rati")
+print("lasha")
+print("andria")
+print("luka")
+print("dani")
