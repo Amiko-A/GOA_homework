@@ -68,4 +68,4 @@ right(90)
 forward(50)
 end_fill()
 speed(0.50)
-exitonclick
+exitonclick()
