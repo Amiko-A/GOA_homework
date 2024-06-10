@@ -1,0 +1,5 @@
+print("Hello , what is the lenght of your rectangle")
+lenght=int(input(""))
+print("And how tall is your rectangle?")
+size=int(input(""))
+print(lenght*size)
