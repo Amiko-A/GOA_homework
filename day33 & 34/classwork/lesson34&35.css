@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.heading-5{
+   color: red;
+}
+.heading-4{
+    color:yellow;
+}
+.heading-3{
+    color: green;
+}
+.heading-2{
+    color:greenyellow;
+}
+.heading-1{
+    color: chartreuse;
+}
+#GO{
+    color: red;
+}
+#GOO{
+    color:yellow;
+}
+#GOOO{
+    color: green;
+}
+#GOOOO{
+    color:greenyellow;
+}
+#GOOOOO{
+    color: chartreuse;
+}

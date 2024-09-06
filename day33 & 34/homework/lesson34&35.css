@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.heading1{
+    color: blueviolet;
+}
+.heading2{
+    color: aquamarine;
+}
+.heading3{
+    color: burlywood;
+}
+.heading4{
+    color: blue;
+}
+.heading5{
+    color: chocolate;
+}
+#heading-1{
+    color: blueviolet;
+}
+#heading-2{
+    color: aquamarine;
+}
+#heading-3{
+    color: burlywood;
+}
+#heading-4{
+    color: blue;
+}
+#heading-5{
+    color: chocolate;
+}
