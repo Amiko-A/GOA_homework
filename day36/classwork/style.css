@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.mydiv{
+    text-align: center;
+}
+img{
+    
+    display: block;
+    margin: auto;
+}
