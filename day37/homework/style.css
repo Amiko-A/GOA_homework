@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/359911.jpg");
+    background-repeat:repeat-x;
+    background-size: 300px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+#mynav{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+.mynav{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
