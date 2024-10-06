@@ -1,0 +1,23 @@
+
+table {
+    align-items: center;
+    font-size: 20px;;
+    border: none; 
+    border-collapse: collapse;
+    margin: auto;
+    width: 50%; 
+}
+.black{
+    background-color:black;
+}
+
+.black td{
+        color: white;
+      }
+td {
+    border: none; 
+    padding: 12px 15px;
+  }
+.even{
+    background-color: gray;
+}
