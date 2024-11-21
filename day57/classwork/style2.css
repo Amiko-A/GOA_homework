@@ -1,0 +1,12 @@
+  a:hover {
+    transform: rotate(30deg);
+    scale:(1.2);
+  }
+  img {
+    height: 500px;
+    width: 500px;
+  }
+  img:hover {
+    transform: scale(1.2);
+  }
+  

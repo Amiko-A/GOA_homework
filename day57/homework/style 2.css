@@ -1,0 +1,31 @@
+div{
+    color: black;
+    font-size: 100px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+}
+.blue:hover{
+    transform: scale(1.1);background-color:red; box-shadow: 20px 20px green;
+}
+.red{
+    background-color: red;
+}
+.red:hover{
+    transform: scale(1.1);background-color:yellow; box-shadow:20px 20px red;
+}
+.green{
+    background-color: green;
+}
+.green:hover{
+    transform: scale(1.1);background-color:blue; box-shadow:20px 20px yellow;
+}
+.yellow{
+    background-color: yellow;
+}
+.yellow:hover{
+    transform: scale(1.1);background-color:green; box-shadow:20px 20px blue;
+}
