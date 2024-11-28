@@ -1,0 +1,30 @@
+div{
+    animation-name: a;
+    animation-duration: 5s;
+    text-align: center;
+    font-size: 40px;
+    width: 100px;
+    padding: 0;
+    border-radius: 20px;
+    background-color:lightgreen;
+    color:white
+}
+
+@keyframes a {
+    0% {
+        background-color: lightgreen;
+        transform:translateX(0%) rotate(0deg);
+    }
+    10%{
+        background-color: lightgreen;
+        transform:translateX(0%) rotate(20deg)
+    }
+    50% {
+        background-color: cyan;
+        transform: translateX(600%) rotate(0deg); 
+    }
+    100% {
+        background-color: lightgreen;
+        transform:translateX(0%) rotate(360deg);
+    }
+}

@@ -1,0 +1,29 @@
+div{
+    animation-name: a;
+    animation-duration: 10s;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+
+@keyframes a {
+    0% {
+        transform: translateX(0) translateY(0);
+    }
+    25% {
+        transform: translateX(300%);
+    }
+    50% {
+          transform:  translateX(300%)translateY(300%);
+    }
+    75% {
+          transform:  translateY(300%);
+    }
+    100% {
+        transform: translateX(0) translateY(0);
+    }
+}
