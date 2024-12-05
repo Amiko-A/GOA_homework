@@ -1,0 +1,18 @@
+button{
+    background-color:red;
+    color: blue;
+    font-size:50px;
+    font-family: cursive;
+    font-weight: 50px;
+    letter-spacing: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border-radius: 30px;
+    box-shadow:blue 10px 10px 10px;
+}
+
+button:hover{
+    transition: 3s;
+    transform: rotate(145deg);
+}

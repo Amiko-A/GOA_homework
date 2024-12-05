@@ -1,0 +1,15 @@
+div{
+    color:white;
+    display: flex;
+    justify-content: center;  
+    box-align: center;
+    font-size: 10px;
+    font-family: cursive;
+    height: 20px;
+    width:100px 
+}
+
+div:hover{
+    transform:3s;
+    color: black;
+}
