@@ -1,1 +1,2 @@
-#ამ დღეს დავალება არ გვქონდა {=
+def even_numbers(numbers):
+    print(numbers[::2])

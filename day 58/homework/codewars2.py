@@ -1,7 +1,8 @@
-def create_array(n):
-    res = []
-    i = 1
-    while i <= n:
-        res.append(i)
-        i += 1
-    return res
+def fake_bin(x):
+    result = ""
+    for i in x:
+        if int(i) < 5:
+            result += "0"
+        else:
+            result += "1"
+    return result

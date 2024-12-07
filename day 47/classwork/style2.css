@@ -1,0 +1,20 @@
+.margin{
+    margin-bottom: 20px; 
+    background-color: green;
+}
+
+.margin2{
+    margin-right: 30px;
+    margin-left: 30px; 
+    background-color: cyan;
+}
+
+.margin3{
+    margin: 40px;
+    background-color: violet;
+}
+
+.margin4{
+    margin: 40px 30px 20px 10px;
+    background-color: yellow;
+}

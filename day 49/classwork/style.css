@@ -1,0 +1,42 @@
+.tree{
+    position: fixed;
+    top:0px;
+    right:0pc;
+    color: green;
+    font-size: 80px;
+}
+.mom{
+    background-color: pink;
+    font-size: 50px;
+    position: absolute;
+    left: 0px;
+}
+.dad{
+    background-color: blue;
+    font-size: 50px;
+}
+.child{
+    position: relative;
+    top: 30px;
+    background-color: aqua;
+    font-size: 50px;
+}
+.celing{
+    background-color: orange;
+    font-size: 50px;
+}
+.floor{
+    background-color: orange;
+    font-size: 50px;
+    height: 2000px;
+}
+td {
+    border: none; 
+    padding: 12px 15px;
+  }
+  .tabl{
+    background-color: gray;
+    margin: left 1000px;;
+    position: sticky;
+    top: 0
+}
