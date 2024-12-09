@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    text-align: center;
+    background-color: black;
+    font-size: 60px;
+}
+p{
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+button{
+    font-size:50px;
+    color: red;
+    border-color:red;
+    background-color: black;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.myDiv{
+    text-align: center;
+}
