@@ -1,0 +1,18 @@
+.img1{
+    height: 400px;
+    width: 400px;
+    margin: 300px 200px 200px 0px;
+    -webkit-border-radius:20px;
+}
+.img2{
+    height: 400px;
+    width: 400px;
+    margin: 300px 200px 200px 0px;
+    -webkit-box-shadow: 10px 10px 10px rgba(202, 30, 30, 2);
+}
+.img3{
+    height: 400px;
+    width: 400px;
+    margin: 300px 200px 200px 0px;
+    -webkit-transform: rotate(50deg);
+}

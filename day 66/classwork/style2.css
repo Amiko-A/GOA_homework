@@ -1,0 +1,28 @@
+:root{
+    --back-color:red;
+    --color:lime;
+    --font-size:15px;
+    --letter-spacing:3px;
+    --display:flex;
+    --padding:30px;
+    --margin:20px 0px 0px 0px;
+    --position:sticky;
+    --transform:rotate(30deg);
+    --transition:5s;
+}
+div{
+    background-color: var(--back-color);
+    color: var(--color);
+    font-size: var(--font-size);
+    margin: var(--margin);
+    transform: var(--transform);
+    transition: var(--transition);
+}
+h1{
+    letter-spacing: var(--letter-spacing);
+    padding: var(--padding);
+}
+button{
+    position: var(--position);
+    display: var(--display);
+}
